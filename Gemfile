@@ -33,6 +33,7 @@ gem 'pg', '~> 1.4', '>= 1.4.4'
 
 # Require all files in a folder
 gem "require_all", "~> 3.0"
+gem "sqlite3", "~> 1.4"
 
 # These gems will only be used when we are running the application locally
 group :development do
