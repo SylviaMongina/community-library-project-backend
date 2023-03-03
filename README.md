@@ -20,6 +20,8 @@ Building a Sinatra API backend that uses Active Record to access and persist dat
 - [x] Technologies need include;Ruby,Sinatra and Sqlite3
 
 ## Frontend Setup ✴️
+* Click this link to get the front end repo `https://github.com/SylviaMongina/community-library-project-frontend` 
+* Here is a view of the deployed app `https://community-library-project-frontend.vercel.app/`
 - [x] cd into  folder and run `bundle install` from your terminal which will install all the gems 
 - [x] seed the database with data using cmd `bundle exec rake db:seed` or alternatively you can use `bundle exec rake db:seed:replant` to delete everything in the database and seed it with data to be fetched by an API
 - [x] Finally run `bundle exec rake server` to keep your backend running on `http://localhost:9292` :boom:
